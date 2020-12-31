@@ -13,6 +13,7 @@
 		D1B277AD259C80AA00FFB703 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1B277AC259C80AA00FFB703 /* Preview Assets.xcassets */; };
 		D1B277B8259C80AA00FFB703 /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B277B7259C80AA00FFB703 /* FoodTrackerTests.swift */; };
 		D1B277C3259C80AA00FFB703 /* FoodTrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B277C2259C80AA00FFB703 /* FoodTrackerUITests.swift */; };
+		D1B277D4259E226300FFB703 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B277D3259E226300FFB703 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		D1B277BE259C80AA00FFB703 /* FoodTrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodTrackerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1B277C2259C80AA00FFB703 /* FoodTrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerUITests.swift; sourceTree = "<group>"; };
 		D1B277C4259C80AA00FFB703 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1B277D3259E226300FFB703 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				D1B277A5259C80A900FFB703 /* FoodTrackerApp.swift */,
 				D1B277A7259C80A900FFB703 /* ContentView.swift */,
+				D1B277D3259E226300FFB703 /* CircleImage.swift */,
 				D1B277A9259C80AA00FFB703 /* Assets.xcassets */,
 				D1B277AE259C80AA00FFB703 /* Info.plist */,
 				D1B277AB259C80AA00FFB703 /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				D1B277A8259C80A900FFB703 /* ContentView.swift in Sources */,
 				D1B277A6259C80A900FFB703 /* FoodTrackerApp.swift in Sources */,
+				D1B277D4259E226300FFB703 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
